@@ -11,7 +11,8 @@ pmdarima
 shap
 xgboost
 bayesian-optimization
-pystan==2.19.1.1 prophet
+pystan==2.19.1.1 
+prophet
 gluonts
 mxnet
 statsmodels
