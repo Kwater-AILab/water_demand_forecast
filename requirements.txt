@@ -18,5 +18,4 @@ mxnet
 statsmodels
 tensorflow
 sklearn
-pylab
 tqdm
