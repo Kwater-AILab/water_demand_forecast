@@ -6,3 +6,17 @@ statsmodels
 scipy
 openpyxl
 pycaret
+lightgbm
+pmdarima
+shap
+xgboost
+bayesian-optimization
+pystan==2.19.1.1 prophet
+gluonts
+mxnet
+statsmodels
+tensorflow
+sklearn
+pylab
+tqdm
+plots
